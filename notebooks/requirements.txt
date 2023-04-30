@@ -1,0 +1,6 @@
+jupyter
+pandas
+torch
+torchvision
+matplotlib
+seaborn
